@@ -1,11 +1,11 @@
 {
-    "name": "leftover_legends",
-    "short_name": "leftover_legends",
+    "name": "IngredientConservo",
+    "short_name": "IngredientConservo",
     "start_url": ".",
     "display": "standalone",
-    "background_color": "#0175C2",
-    "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "background_color": "#F4EFEA",
+    "theme_color": "#3F5E4A",
+    "description": "IngredientConservo — your pantry, your legacy.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
